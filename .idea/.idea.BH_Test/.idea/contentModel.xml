@@ -486,8 +486,10 @@
           <e p="Version.txt" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="InputSettings" t="Include">
+            <e p="PlayerInputMap.cs" t="Include" />
+          </e>
           <e p="Player" t="Include">
-            <e p="CameraPlayerMovement.cs" t="Include" />
             <e p="PlayerMovement.cs" t="Include" />
           </e>
         </e>

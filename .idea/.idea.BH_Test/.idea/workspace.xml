@@ -2,7 +2,293 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72bbaffc-422b-4511-9695-f9979cef5ed8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BH_Test/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BH_Test/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BH_Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BH_Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials/MetalV1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials/MetalV1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials/MetalV2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials/MetalV2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials/PolyPack_Main.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials/PolyPack_Main.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/AxeV1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/AxeV1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/HammerV1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/HammerV1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/HoeV1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/HoeV1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/PickAxeV1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/PickAxeV1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/ScytheV1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/ScytheV1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/SpadeV1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/SpadeV1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/AxeV1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/AxeV1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/HammerV1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/HammerV1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/HoeV1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/HoeV1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/PickAxeV1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/PickAxeV1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/ScytheV1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/ScytheV1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/SpadeV1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/SpadeV1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Scene/Showcase.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Scene/Showcase.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Texture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Texture/PolyPack_Main1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Texture/PolyPack_Main1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_001.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_001.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_002.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_002.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_003.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_003.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_004.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_004.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_005.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_005.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_006.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_006.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_007.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_007.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_008.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_008.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_009.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_009.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_010.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_010.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_011.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_011.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_012.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_012.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_013.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_013.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_014.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_014.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_015.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_015.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_016.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_016.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_017.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_017.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_018.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_018.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_019.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_019.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_020.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_020.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_021.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_021.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_022.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_022.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_023.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_023.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_024.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_024.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_025.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_025.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_026.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_026.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_027.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_027.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_028.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_028.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_029.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_029.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_030.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_030.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_031.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_031.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_032.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_032.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_033.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_033.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_034.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_034.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_035.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_035.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_036.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_036.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_037.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_037.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_038.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_038.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_039.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_039.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_040.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_040.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_041.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_041.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_042.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_042.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_043.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_043.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_044.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_044.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_045.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_045.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_046.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_046.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_047.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_047.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_048.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_048.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_049.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_049.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_050.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_050.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_051.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_051.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_052.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_052.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_053.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_053.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_054.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_054.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_055.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_055.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_056.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_056.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_057.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_057.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_058.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_058.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_059.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_059.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_060.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_060.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_061.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_061.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_062.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_062.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_063.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_063.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_064.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_064.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_065.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_065.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_066.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_066.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_067.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_067.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_068.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_068.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_069.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_069.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_070.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_070.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_071.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_071.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_072.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_072.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_073.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_073.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_074.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_074.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_075.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_075.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_076.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_076.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_077.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_077.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_078.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_078.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_079.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_079.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_080.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_080.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_081.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_081.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_082.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_082.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_083.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_083.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_084.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_084.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_085.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_085.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_086.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_086.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_087.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_087.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_088.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_088.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_089.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_089.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_090.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_090.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_091.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_091.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_092.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_092.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_093.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_093.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_094.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_094.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_095.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_095.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_096.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_096.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_097.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_097.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_098.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_098.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_099.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_099.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_100.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_100.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_101.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_101.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_102.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_102.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_103.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_103.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_104.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_104.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_105.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_105.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_106.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_106.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_107.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_107.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_108.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_108.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_109.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_109.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_110.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_110.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Cold Touch.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Cold Touch.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Intense chase (loopable).wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Intense chase (loopable).wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Intense chase (not loopable).wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Intense chase (not loopable).wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Jump Scare.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Jump Scare.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Spooky Piano.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Spooky Piano.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/The Wet Room (Loopable).wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/The Wet Room (Loopable).wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/The Wet Room (Not Loopable).wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/The Wet Room (Not Loopable).wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Waiting .wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Waiting .wav.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ThirdPerson.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ThirdPerson.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/CameraPlayerMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/CameraPlayerMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,15 +299,249 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/CameraPlayerMovement.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="1712">
+              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
               <folding>
-                <marker date="1659114665420" expanded="false" signature="6:78" ph="..." />
-                <marker date="1659114665420" expanded="true" signature="129:303" ph="{...}" />
-                <marker date="1659114665420" expanded="true" signature="201:222" ph="{...}" />
-                <marker date="1659114665420" expanded="true" signature="280:301" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="6:75" ph="..." />
+                <marker date="1659271872380" expanded="true" signature="120:3307" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="770:1310" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="1337:1476" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="1365:1409" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="1422:1470" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="1505:1947" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="1552:1941" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="2006:2401" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="2266:2395" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="2457:2532" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="2569:2672" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="2735:2826" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="2865:3092" ph="{...}" />
+                <marker date="1659271872380" expanded="true" signature="3125:3305" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-935">
+              <caret line="1261" selection-start-line="1261" selection-end-line="1261" />
+              <folding>
+                <marker date="1650179292000" expanded="false" signature="6:166" ph="..." />
+                <marker date="1650179292000" expanded="true" signature="184:59355" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="537:59353" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="4035:4186" ph="/* Player objects are created in the default handler for AddPlayer() on ... */" />
+                <marker date="1650179292000" expanded="true" signature="5964:6013" ph="/* TODO remove this ... */" />
+                <marker date="1650179292000" expanded="true" signature="6188:6327" ph="/* This is set before OnClientConnect is called, so it can be checked ... */" />
+                <marker date="1650179292000" expanded="true" signature="6379:6818" ph="/* helper enum to know if we started the networkmanager as server/client/host. ... */" />
+                <marker date="1650179292000" expanded="true" signature="7012:7806" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="7203:7363" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="7578:7796" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="7816:8188" ph="/* virtual so that inheriting classes' Reset() can call base.Reset() too ... */" />
+                <marker date="1650179292000" expanded="true" signature="8224:9699" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="8247:8430" ph="/* make sure someone doesn't accidentally add another NetworkManager ... */" />
+                <marker date="1650179292000" expanded="true" signature="8535:8994" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="8586:8980" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="8818:8934" ph="/* return early so that transport component isn't auto-added ... */" />
+                <marker date="1650179292000" expanded="true" signature="9105:9689" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="9464:9675" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="9817:10305" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="10044:10150" ph="/* Set the networkSceneName to prevent a scene reload ... */" />
+                <marker date="1650179292000" expanded="true" signature="10423:10823" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="10446:10692" ph="/* headless mode? then start the server ... */" />
+                <marker date="1650179292000" expanded="true" signature="10956:11003" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="11120:11365" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="11421:11579" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="11671:12881" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="11898:12061" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="12223:12709" ph="/* call OnStartServer AFTER Listen, so that NetworkServer.active is ... */" />
+                <marker date="1650179292000" expanded="true" signature="13002:14229" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="13050:13163" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="13228:13856" ph="/* StartServer is inherently ASYNCHRONOUS (=doesn't finish immediately) ... */" />
+                <marker date="1650179292000" expanded="true" signature="14012:14088" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="14145:14219" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="14361:15403" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="14409:14522" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="14735:14898" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="15092:15229" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="15529:16297" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="15577:15690" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="15903:16066" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="16432:18636" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="16504:16627" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="16686:17667" ph="/* StartHost is inherently ASYNCHRONOUS (=doesn't finish immediately) ... */" />
+                <marker date="1650179292000" expanded="true" signature="17708:17916" ph="/* call OnStartHost AFTER SetupServer. this way we can use ... */" />
+                <marker date="1650179292000" expanded="true" signature="17957:18255" ph="/* scene change needed? then change scene and spawn afterwards. ... */" />
+                <marker date="1650179292000" expanded="true" signature="18306:18491" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="18563:18626" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="18765:19126" ph="/* FinishStartHost is guaranteed to be called after the host server was ... */" />
+                <marker date="1650179292000" expanded="true" signature="19157:21300" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="19180:20773" ph="/* ConnectHost needs to be called BEFORE SpawnObjects: ... */" />
+                <marker date="1650179292000" expanded="true" signature="20937:21259" ph="/* connect client and call OnStartClient AFTER server scene was ... */" />
+                <marker date="1650179292000" expanded="true" signature="21332:21966" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="21444:21607" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="21749:21878" ph="/* ConnectLocalServer needs to be called AFTER RegisterClientMessages ... */" />
+                <marker date="1650179292000" expanded="true" signature="22098:22638" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="22148:22487" ph="/* calling OnTransportDisconnected was needed to fix ... */" />
+                <marker date="1650179292000" expanded="true" signature="22760:24252" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="22942:23107" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="23121:23401" ph="/* Get Network Manager out of DDOL before going to offline scene ... */" />
+                <marker date="1650179292000" expanded="true" signature="23862:23986" ph="/* set offline mode BEFORE changing scene so that FinishStartScene ... */" />
+                <marker date="1650179292000" expanded="true" signature="24092:24169" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="24351:26345" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="24477:24642" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="24656:24936" ph="/* Get Network Manager out of DDOL before going to offline scene ... */" />
+                <marker date="1650179292000" expanded="true" signature="25304:25592" ph="/* Debug.Log(&quot;NetworkManager StopClient&quot;); ... */" />
+                <marker date="1650179292000" expanded="true" signature="25763:26055" ph="/* If this is the host player, StopServer will already be changing scenes. ... */" />
+                <marker date="1650179292000" expanded="true" signature="26199:26299" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="26355:26563" ph="/* called when quitting the application by closing the window / pressing ... */" />
+                <marker date="1650179292000" expanded="true" signature="26611:27280" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="26634:26766" ph="/* stop client first ... */" />
+                <marker date="1650179292000" expanded="true" signature="26809:26933" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="27053:27177" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="27394:27476" ph="/* useful for dedicated servers. ... */" />
+                <marker date="1650179292000" expanded="true" signature="27533:27723" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="27759:29186" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="27890:28828" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="27943:28335" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="28497:28814" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="28536:28698" ph="/* Force the object to scene root, in case user made it a child of something ... */" />
+                <marker date="1650179292000" expanded="true" signature="28845:28983" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="28997:29100" ph="/* set active transport AFTER setting singleton. ... */" />
+                <marker date="1650179292000" expanded="true" signature="29225:29713" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="29752:30386" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="30396:30559" ph="/* This is the only way to clear the singleton, so another instance can be created. ... */" />
+                <marker date="1650179292000" expanded="true" signature="30684:31145" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="31275:31348" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="31428:31586" ph="/* set by NetworkManager when changing the scene. ... */" />
+                <marker date="1650179292000" expanded="true" signature="31828:32129" ph="/* Called automatically if onlineScene or offlineScene are set, but it ... */" />
+                <marker date="1650179292000" expanded="true" signature="32196:33610" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="32263:32385" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="32468:32611" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="32884:33009" ph="/* set server flag to stop processing messages while changing scenes ... */" />
+                <marker date="1650179292000" expanded="true" signature="33148:33315" ph="/* ServerChangeScene can be called when stopping the server ... */" />
+                <marker date="1650179292000" expanded="true" signature="33353:33527" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="33620:33860" ph="/* This is only set in ClientChangeScene below...never on server. ... */" />
+                <marker date="1650179292000" expanded="true" signature="34075:37927" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="34142:34264" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="34278:34428" ph="/* Debug.Log($&quot;ClientChangeScene newSceneName: {newSceneName} networkSceneName{networkSceneName}&quot;); ... */" />
+                <marker date="1650179292000" expanded="true" signature="34521:34690" ph="/* After calling OnClientChangeScene, exit if server since server is already doing ... */" />
+                <marker date="1650179292000" expanded="true" signature="34766:35218" ph="/* set client flag to stop processing messages while loading scenes. ... */" />
+                <marker date="1650179292000" expanded="true" signature="35281:35418" ph="/* Cache sceneOperation so we know what was requested by the ... */" />
+                <marker date="1650179292000" expanded="true" signature="35483:35788" ph="/* scene handling will happen in overrides of OnClientChangeScene and/or OnClientSceneChanged ... */" />
+                <marker date="1650179292000" expanded="true" signature="35881:37708" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="36120:36273" ph="/* Ensure additive scene is not already loaded on client by name or path ... */" />
+                <marker date="1650179292000" expanded="true" signature="36543:36822" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="36922:37072" ph="/* Ensure additive scene is actually loaded on client by name or path ... */" />
+                <marker date="1650179292000" expanded="true" signature="37368:37667" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="37937:38533" ph="/* support additive scene loads: ... */" />
+                <marker date="1650179292000" expanded="true" signature="38593:39255" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="38651:39245" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="38707:38979" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="39021:39231" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="39283:40070" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="39364:40060" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="39395:39778" ph="/* Debug.Log($&quot;ClientChangeScene done readyConn {clientReadyConnection}&quot;); ... */" />
+                <marker date="1650179292000" expanded="true" signature="39798:39873" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="39897:40046" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="40112:41111" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="40135:40413" ph="/* NOTE: this cannot use NetworkClient.allClients[0] - that client may be for a completely different purpose. ... */" />
+                <marker date="1650179292000" expanded="true" signature="40589:40656" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="40749:40822" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="40915:40988" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="41001:41101" ph="/* otherwise we called it after stopping when loading offline scene. ... */" />
+                <marker date="1650179292000" expanded="true" signature="41121:41295" ph="/* finish load scene part for host mode. makes code easier and is ... */" />
+                <marker date="1650179292000" expanded="true" signature="41330:43396" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="41353:41528" ph="/* debug message is very important. if we ever break anything then ... */" />
+                <marker date="1650179292000" expanded="true" signature="41576:41879" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="41893:42015" ph="/* do we need to finish a StartHost() call? ... */" />
+                <marker date="1650179292000" expanded="true" signature="42055:42743" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="42272:42729" ph="/* DO NOT call OnClientSceneChanged here. ... */" />
+                <marker date="1650179292000" expanded="true" signature="42822:43386" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="43072:43372" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="43406:43525" ph="/* finish load scene part for server-only. . makes code easier and is ... */" />
+                <marker date="1650179292000" expanded="true" signature="43566:43876" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="43589:43771" ph="/* debug message is very important. if we ever break anything then ... */" />
+                <marker date="1650179292000" expanded="true" signature="43886:44003" ph="/* finish load scene part for client-only. makes code easier and is ... */" />
+                <marker date="1650179292000" expanded="true" signature="44044:44877" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="44067:44249" ph="/* debug message is very important. if we ever break anything then ... */" />
+                <marker date="1650179292000" expanded="true" signature="44297:44600" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="44644:44867" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="44887:45203" ph="/// Registers the transform of a game object as a player spawn location. ... " />
+                <marker date="1650179292000" expanded="true" signature="45212:45317" ph="/* Static because it's called from NetworkStartPosition::Awake ... */" />
+                <marker date="1650179292000" expanded="true" signature="45383:45953" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="45540:45839" ph="/* reorder the list so that round-robin spawning uses the start positions ... */" />
+                <marker date="1650179292000" expanded="true" signature="46039:46148" ph="/* Static because it's called from NetworkStartPosition::OnDestroy ... */" />
+                <marker date="1650179292000" expanded="true" signature="46216:46362" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="46513:47137" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="46762:46880" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="46897:47127" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="47207:47629" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="47324:47485" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="47502:47619" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="47639:47753" ph="/* called after successful authentication ... */" />
+                <marker date="1650179292000" expanded="true" signature="47820:48330" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="47843:47943" ph="/* Debug.Log(&quot;NetworkManager.OnServerAuthenticated&quot;); ... */" />
+                <marker date="1650179292000" expanded="true" signature="48136:48284" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="48423:48548" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="48642:49445" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="48772:48944" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="49035:49223" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="49263:49397" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="49485:49899" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="49602:49759" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="49776:49889" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="49987:50855" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="50010:50110" ph="/* Debug.Log(&quot;NetworkManager.OnClientAuthenticated&quot;); ... */" />
+                <marker date="1650179292000" expanded="true" signature="50364:50625" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="50642:50845" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="50898:51173" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="51240:51649" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="51703:52042" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="51726:51871" ph="/* Debug.Log(&quot;NetworkManager.OnClientSceneInternal&quot;); ... */" />
+                <marker date="1650179292000" expanded="true" signature="51914:52032" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="52419:52793" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="52442:52654" ph="/* by default, this function destroys the connection's player. ... */" />
+                <marker date="1650179292000" expanded="true" signature="52964:53220" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="53013:53162" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="53044:53148" ph="/* this is now allowed (was not for a while) ... */" />
+                <marker date="1650179292000" expanded="true" signature="53546:54099" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="53799:53946" ph="/* instantiating a &quot;Player&quot; prefab gives it the name &quot;Player(clone)&quot; ... */" />
+                <marker date="1650179292000" expanded="true" signature="54864:55487" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="54887:55077" ph="/* OnClientConnect by default calls AddPlayer but it should not do ... */" />
+                <marker date="1650179292000" expanded="true" signature="55113:55477" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="55144:55292" ph="/* Ready/AddPlayer is usually triggered by a scene load completing. ... */" />
+                <marker date="1650179292000" expanded="true" signature="55863:55986" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="57272:57498" ph="/* Scene changes can cause player objects to be destroyed. The default ... */" />
+                <marker date="1650179292000" expanded="true" signature="57549:57998" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="57863:57988" ph="{...}" />
+                <marker date="1650179292000" expanded="true" signature="58262:58563" ph="/* Since there are multiple versions of StartServer, StartClient and ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.inputactions">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1763" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4097">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding>
+                <marker date="1659270118368" expanded="true" signature="0:490" ph="/* ------------------------------------------------------------------------------ ... */" />
+                <marker date="1659270118368" expanded="false" signature="498:637" ph="..." />
+                <marker date="1659270118368" expanded="true" signature="714:12777" ph="{...}" />
+                <marker date="1659270118368" expanded="true" signature="788:2161" ph="{...}" />
+                <marker date="1659270118368" expanded="true" signature="12731:12775" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -33,13 +553,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/CameraPlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="335" />
-    <option name="y" value="65" />
-    <option name="width" value="1126" />
-    <option name="height" value="1024" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-7" />
+    <option name="width" value="1597" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
@@ -62,6 +592,12 @@
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="InputSettings" type="1045f7f1:UnityExplorerNode" />
             </path>
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
@@ -121,12 +657,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659119226128</updated>
-      <workItem from="1659119229524" duration="1232000" />
+      <workItem from="1659119229524" duration="19354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1232000" />
+    <option name="totallyTimeSpent" value="19354000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -138,13 +674,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-7" y="0" width="1597" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30513987" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -190,12 +726,254 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/CameraPlayerMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4097">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
-            <marker date="1659114665420" expanded="false" signature="6:78" ph="..." />
-            <marker date="1659114665420" expanded="true" signature="129:303" ph="{...}" />
-            <marker date="1659114665420" expanded="true" signature="201:222" ph="{...}" />
-            <marker date="1659114665420" expanded="true" signature="280:301" ph="{...}" />
+            <marker date="1659270118368" expanded="true" signature="0:490" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1659270118368" expanded="false" signature="498:637" ph="..." />
+            <marker date="1659270118368" expanded="true" signature="714:12777" ph="{...}" />
+            <marker date="1659270118368" expanded="true" signature="788:2161" ph="{...}" />
+            <marker date="1659270118368" expanded="true" signature="12731:12775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.inputactions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1763" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-935">
+          <caret line="1261" selection-start-line="1261" selection-end-line="1261" />
+          <folding>
+            <marker date="1650179292000" expanded="false" signature="6:166" ph="..." />
+            <marker date="1650179292000" expanded="true" signature="184:59355" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="537:59353" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="4035:4186" ph="/* Player objects are created in the default handler for AddPlayer() on ... */" />
+            <marker date="1650179292000" expanded="true" signature="5964:6013" ph="/* TODO remove this ... */" />
+            <marker date="1650179292000" expanded="true" signature="6188:6327" ph="/* This is set before OnClientConnect is called, so it can be checked ... */" />
+            <marker date="1650179292000" expanded="true" signature="6379:6818" ph="/* helper enum to know if we started the networkmanager as server/client/host. ... */" />
+            <marker date="1650179292000" expanded="true" signature="7012:7806" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="7203:7363" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="7578:7796" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="7816:8188" ph="/* virtual so that inheriting classes' Reset() can call base.Reset() too ... */" />
+            <marker date="1650179292000" expanded="true" signature="8224:9699" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="8247:8430" ph="/* make sure someone doesn't accidentally add another NetworkManager ... */" />
+            <marker date="1650179292000" expanded="true" signature="8535:8994" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="8586:8980" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="8818:8934" ph="/* return early so that transport component isn't auto-added ... */" />
+            <marker date="1650179292000" expanded="true" signature="9105:9689" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="9464:9675" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="9817:10305" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="10044:10150" ph="/* Set the networkSceneName to prevent a scene reload ... */" />
+            <marker date="1650179292000" expanded="true" signature="10423:10823" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="10446:10692" ph="/* headless mode? then start the server ... */" />
+            <marker date="1650179292000" expanded="true" signature="10956:11003" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="11120:11365" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="11421:11579" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="11671:12881" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="11898:12061" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="12223:12709" ph="/* call OnStartServer AFTER Listen, so that NetworkServer.active is ... */" />
+            <marker date="1650179292000" expanded="true" signature="13002:14229" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="13050:13163" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="13228:13856" ph="/* StartServer is inherently ASYNCHRONOUS (=doesn't finish immediately) ... */" />
+            <marker date="1650179292000" expanded="true" signature="14012:14088" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="14145:14219" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="14361:15403" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="14409:14522" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="14735:14898" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="15092:15229" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="15529:16297" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="15577:15690" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="15903:16066" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="16432:18636" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="16504:16627" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="16686:17667" ph="/* StartHost is inherently ASYNCHRONOUS (=doesn't finish immediately) ... */" />
+            <marker date="1650179292000" expanded="true" signature="17708:17916" ph="/* call OnStartHost AFTER SetupServer. this way we can use ... */" />
+            <marker date="1650179292000" expanded="true" signature="17957:18255" ph="/* scene change needed? then change scene and spawn afterwards. ... */" />
+            <marker date="1650179292000" expanded="true" signature="18306:18491" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="18563:18626" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="18765:19126" ph="/* FinishStartHost is guaranteed to be called after the host server was ... */" />
+            <marker date="1650179292000" expanded="true" signature="19157:21300" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="19180:20773" ph="/* ConnectHost needs to be called BEFORE SpawnObjects: ... */" />
+            <marker date="1650179292000" expanded="true" signature="20937:21259" ph="/* connect client and call OnStartClient AFTER server scene was ... */" />
+            <marker date="1650179292000" expanded="true" signature="21332:21966" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="21444:21607" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="21749:21878" ph="/* ConnectLocalServer needs to be called AFTER RegisterClientMessages ... */" />
+            <marker date="1650179292000" expanded="true" signature="22098:22638" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="22148:22487" ph="/* calling OnTransportDisconnected was needed to fix ... */" />
+            <marker date="1650179292000" expanded="true" signature="22760:24252" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="22942:23107" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="23121:23401" ph="/* Get Network Manager out of DDOL before going to offline scene ... */" />
+            <marker date="1650179292000" expanded="true" signature="23862:23986" ph="/* set offline mode BEFORE changing scene so that FinishStartScene ... */" />
+            <marker date="1650179292000" expanded="true" signature="24092:24169" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="24351:26345" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="24477:24642" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="24656:24936" ph="/* Get Network Manager out of DDOL before going to offline scene ... */" />
+            <marker date="1650179292000" expanded="true" signature="25304:25592" ph="/* Debug.Log(&quot;NetworkManager StopClient&quot;); ... */" />
+            <marker date="1650179292000" expanded="true" signature="25763:26055" ph="/* If this is the host player, StopServer will already be changing scenes. ... */" />
+            <marker date="1650179292000" expanded="true" signature="26199:26299" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="26355:26563" ph="/* called when quitting the application by closing the window / pressing ... */" />
+            <marker date="1650179292000" expanded="true" signature="26611:27280" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="26634:26766" ph="/* stop client first ... */" />
+            <marker date="1650179292000" expanded="true" signature="26809:26933" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="27053:27177" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="27394:27476" ph="/* useful for dedicated servers. ... */" />
+            <marker date="1650179292000" expanded="true" signature="27533:27723" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="27759:29186" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="27890:28828" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="27943:28335" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="28497:28814" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="28536:28698" ph="/* Force the object to scene root, in case user made it a child of something ... */" />
+            <marker date="1650179292000" expanded="true" signature="28845:28983" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="28997:29100" ph="/* set active transport AFTER setting singleton. ... */" />
+            <marker date="1650179292000" expanded="true" signature="29225:29713" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="29752:30386" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="30396:30559" ph="/* This is the only way to clear the singleton, so another instance can be created. ... */" />
+            <marker date="1650179292000" expanded="true" signature="30684:31145" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="31275:31348" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="31428:31586" ph="/* set by NetworkManager when changing the scene. ... */" />
+            <marker date="1650179292000" expanded="true" signature="31828:32129" ph="/* Called automatically if onlineScene or offlineScene are set, but it ... */" />
+            <marker date="1650179292000" expanded="true" signature="32196:33610" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="32263:32385" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="32468:32611" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="32884:33009" ph="/* set server flag to stop processing messages while changing scenes ... */" />
+            <marker date="1650179292000" expanded="true" signature="33148:33315" ph="/* ServerChangeScene can be called when stopping the server ... */" />
+            <marker date="1650179292000" expanded="true" signature="33353:33527" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="33620:33860" ph="/* This is only set in ClientChangeScene below...never on server. ... */" />
+            <marker date="1650179292000" expanded="true" signature="34075:37927" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="34142:34264" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="34278:34428" ph="/* Debug.Log($&quot;ClientChangeScene newSceneName: {newSceneName} networkSceneName{networkSceneName}&quot;); ... */" />
+            <marker date="1650179292000" expanded="true" signature="34521:34690" ph="/* After calling OnClientChangeScene, exit if server since server is already doing ... */" />
+            <marker date="1650179292000" expanded="true" signature="34766:35218" ph="/* set client flag to stop processing messages while loading scenes. ... */" />
+            <marker date="1650179292000" expanded="true" signature="35281:35418" ph="/* Cache sceneOperation so we know what was requested by the ... */" />
+            <marker date="1650179292000" expanded="true" signature="35483:35788" ph="/* scene handling will happen in overrides of OnClientChangeScene and/or OnClientSceneChanged ... */" />
+            <marker date="1650179292000" expanded="true" signature="35881:37708" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="36120:36273" ph="/* Ensure additive scene is not already loaded on client by name or path ... */" />
+            <marker date="1650179292000" expanded="true" signature="36543:36822" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="36922:37072" ph="/* Ensure additive scene is actually loaded on client by name or path ... */" />
+            <marker date="1650179292000" expanded="true" signature="37368:37667" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="37937:38533" ph="/* support additive scene loads: ... */" />
+            <marker date="1650179292000" expanded="true" signature="38593:39255" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="38651:39245" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="38707:38979" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="39021:39231" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="39283:40070" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="39364:40060" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="39395:39778" ph="/* Debug.Log($&quot;ClientChangeScene done readyConn {clientReadyConnection}&quot;); ... */" />
+            <marker date="1650179292000" expanded="true" signature="39798:39873" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="39897:40046" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="40112:41111" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="40135:40413" ph="/* NOTE: this cannot use NetworkClient.allClients[0] - that client may be for a completely different purpose. ... */" />
+            <marker date="1650179292000" expanded="true" signature="40589:40656" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="40749:40822" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="40915:40988" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="41001:41101" ph="/* otherwise we called it after stopping when loading offline scene. ... */" />
+            <marker date="1650179292000" expanded="true" signature="41121:41295" ph="/* finish load scene part for host mode. makes code easier and is ... */" />
+            <marker date="1650179292000" expanded="true" signature="41330:43396" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="41353:41528" ph="/* debug message is very important. if we ever break anything then ... */" />
+            <marker date="1650179292000" expanded="true" signature="41576:41879" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="41893:42015" ph="/* do we need to finish a StartHost() call? ... */" />
+            <marker date="1650179292000" expanded="true" signature="42055:42743" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="42272:42729" ph="/* DO NOT call OnClientSceneChanged here. ... */" />
+            <marker date="1650179292000" expanded="true" signature="42822:43386" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="43072:43372" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="43406:43525" ph="/* finish load scene part for server-only. . makes code easier and is ... */" />
+            <marker date="1650179292000" expanded="true" signature="43566:43876" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="43589:43771" ph="/* debug message is very important. if we ever break anything then ... */" />
+            <marker date="1650179292000" expanded="true" signature="43886:44003" ph="/* finish load scene part for client-only. makes code easier and is ... */" />
+            <marker date="1650179292000" expanded="true" signature="44044:44877" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="44067:44249" ph="/* debug message is very important. if we ever break anything then ... */" />
+            <marker date="1650179292000" expanded="true" signature="44297:44600" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="44644:44867" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="44887:45203" ph="/// Registers the transform of a game object as a player spawn location. ... " />
+            <marker date="1650179292000" expanded="true" signature="45212:45317" ph="/* Static because it's called from NetworkStartPosition::Awake ... */" />
+            <marker date="1650179292000" expanded="true" signature="45383:45953" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="45540:45839" ph="/* reorder the list so that round-robin spawning uses the start positions ... */" />
+            <marker date="1650179292000" expanded="true" signature="46039:46148" ph="/* Static because it's called from NetworkStartPosition::OnDestroy ... */" />
+            <marker date="1650179292000" expanded="true" signature="46216:46362" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="46513:47137" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="46762:46880" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="46897:47127" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="47207:47629" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="47324:47485" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="47502:47619" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="47639:47753" ph="/* called after successful authentication ... */" />
+            <marker date="1650179292000" expanded="true" signature="47820:48330" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="47843:47943" ph="/* Debug.Log(&quot;NetworkManager.OnServerAuthenticated&quot;); ... */" />
+            <marker date="1650179292000" expanded="true" signature="48136:48284" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="48423:48548" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="48642:49445" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="48772:48944" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="49035:49223" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="49263:49397" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="49485:49899" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="49602:49759" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="49776:49889" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="49987:50855" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="50010:50110" ph="/* Debug.Log(&quot;NetworkManager.OnClientAuthenticated&quot;); ... */" />
+            <marker date="1650179292000" expanded="true" signature="50364:50625" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="50642:50845" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="50898:51173" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="51240:51649" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="51703:52042" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="51726:51871" ph="/* Debug.Log(&quot;NetworkManager.OnClientSceneInternal&quot;); ... */" />
+            <marker date="1650179292000" expanded="true" signature="51914:52032" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="52419:52793" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="52442:52654" ph="/* by default, this function destroys the connection's player. ... */" />
+            <marker date="1650179292000" expanded="true" signature="52964:53220" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="53013:53162" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="53044:53148" ph="/* this is now allowed (was not for a while) ... */" />
+            <marker date="1650179292000" expanded="true" signature="53546:54099" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="53799:53946" ph="/* instantiating a &quot;Player&quot; prefab gives it the name &quot;Player(clone)&quot; ... */" />
+            <marker date="1650179292000" expanded="true" signature="54864:55487" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="54887:55077" ph="/* OnClientConnect by default calls AddPlayer but it should not do ... */" />
+            <marker date="1650179292000" expanded="true" signature="55113:55477" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="55144:55292" ph="/* Ready/AddPlayer is usually triggered by a scene load completing. ... */" />
+            <marker date="1650179292000" expanded="true" signature="55863:55986" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="57272:57498" ph="/* Scene changes can cause player objects to be destroyed. The default ... */" />
+            <marker date="1650179292000" expanded="true" signature="57549:57998" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="57863:57988" ph="{...}" />
+            <marker date="1650179292000" expanded="true" signature="58262:58563" ph="/* Since there are multiple versions of StartServer, StartClient and ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1712">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <marker date="1659271872380" expanded="true" signature="6:75" ph="..." />
+            <marker date="1659271872380" expanded="true" signature="120:3307" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="770:1310" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="1337:1476" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="1365:1409" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="1422:1470" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="1505:1947" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="1552:1941" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="2006:2401" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="2266:2395" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="2457:2532" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="2569:2672" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="2735:2826" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="2865:3092" ph="{...}" />
+            <marker date="1659271872380" expanded="true" signature="3125:3305" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,33 +1,30 @@
 using System.Collections;
+using Mirror;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovement : NetworkBehaviour
 {
     [Header("Movement Settings")]
-    [SerializeField] private float _speed;
+    [SerializeField] private MovementCharactersSettings _dataMovement;
     [Space]
     [Header("Camera Settings")]
     [SerializeField] private Transform _cameraJoint;
-    [SerializeField] private float rotationYMax;
-    [SerializeField] private float rotationYMin;
-    [Space]
-    [Header("Dash Settings")]
-    [SerializeField] private float dashDistance;
-    [SerializeField] private float _speedDash;
-
     private PlayerInputMap _inputSettings;
     private CharacterController _characterController;
     private Transform _character;
     private Vector2 _move;
     private Vector2 _look;
     private bool _canMove;
+    private Collider _collider;
     private void Awake()
     {
         _inputSettings = new PlayerInputMap();
         _inputSettings.Player.Enable();
         _canMove = true;
         _character = transform.Find("Character");
+        _collider = _character.GetComponent<Collider>();
+        _collider.isTrigger = _canMove;
         _characterController = GetComponentInChildren<CharacterController>();
         _inputSettings.Player.Move.canceled += ctx => _move = ctx.ReadValue<Vector2>();
         _inputSettings.Player.Move.performed += ctx => _move = ctx.ReadValue<Vector2>();
@@ -37,13 +34,17 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        if (_canMove)
+        if (hasAuthority)
         {
-            Movement();
-        }
-        else
-        {
-            DashMovement();
+            _collider.isTrigger = _canMove;
+            if (_canMove)
+            {
+                Movement();
+            }
+            else
+            {
+                DashMovement();
+            }
         }
     }
 
@@ -51,24 +52,19 @@ public class PlayerMovement : MonoBehaviour
     {
         if (!_move.Equals(Vector2.zero))
         {
-            float targetRotation = GetTargetRotation();
-            Vector3 targetDirection = GetTargetDirection(targetRotation);
-            _characterController.Move((targetDirection.normalized *_speed + 
+            Vector3 targetDirection = GetTargetDirection(GetTargetRotation());
+            _characterController.Move((targetDirection.normalized *_dataMovement.Speed + 
                                        new Vector3(_move.x, 0, _move.y))*Time.deltaTime);
-            _character.rotation = Quaternion.Euler(0,targetRotation,0);
         }
     }
 
     private void Looking(InputAction.CallbackContext ctx)
     {
         _look = ctx.ReadValue<Vector2>();
-        Vector3 rotationCamera = _cameraJoint.rotation.eulerAngles;
+        Vector3 rotationCamera = _cameraJoint.localRotation.eulerAngles;
         float X = rotationCamera.x + _look.y;
         float Y = rotationCamera.y + _look.x;
-        if (Y <= rotationYMax && Y >= rotationYMin)
-        {
-            _cameraJoint.SetPositionAndRotation(_cameraJoint.position, Quaternion.Euler(new Vector3(X, Y)));
-        }
+        _cameraJoint.SetPositionAndRotation(_cameraJoint.position, Quaternion.Euler(new Vector3(X, Y)));
     }
 
     private void Dash(InputAction.CallbackContext ctx)
@@ -79,7 +75,7 @@ public class PlayerMovement : MonoBehaviour
 
     private IEnumerator DashTimer()
     {
-        yield return new WaitForSeconds(dashDistance/_speedDash);
+        yield return new WaitForSeconds(_dataMovement.DistanceDash/_dataMovement.DashSpeed);
         _canMove = true;
     }
 
@@ -91,13 +87,15 @@ public class PlayerMovement : MonoBehaviour
     private float GetTargetRotation()
     {
         Vector3 inputDirection = new Vector3(_move.x, 0.0f, _move.y).normalized;
-        return Mathf.Atan2(inputDirection.x, inputDirection.z) * Mathf.Rad2Deg +
+        float targetRotation = Mathf.Atan2(inputDirection.x, inputDirection.z) * Mathf.Rad2Deg +
                _cameraJoint.transform.eulerAngles.y;
+        _character.rotation = Quaternion.Euler(0,targetRotation,0);
+        return targetRotation;
     }
 
     private void DashMovement()
     {
         Vector3 targetDirection = GetTargetDirection(GetTargetRotation());
-        _characterController.Move(targetDirection.normalized * _speedDash * Time.deltaTime);
+        _characterController.Move(targetDirection.normalized * _dataMovement.DashSpeed * Time.deltaTime);
     }
 }

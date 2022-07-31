@@ -145,7 +145,7 @@ public partial class @PlayerInputMap : IInputActionCollection2, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""311e8f62-42a5-458b-8ea1-f88a3a9abc04"",
-                    ""path"": ""<Mouse>/rightButton"",
+                    ""path"": ""<Mouse>/leftButton"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""PC"",

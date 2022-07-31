@@ -2,293 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72bbaffc-422b-4511-9695-f9979cef5ed8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BH_Test/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BH_Test/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BH_Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BH_Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials/MetalV1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials/MetalV1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials/MetalV2.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials/MetalV2.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials/PolyPack_Main.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Materials/PolyPack_Main.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/AxeV1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/AxeV1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/HammerV1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/HammerV1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/HoeV1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/HoeV1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/PickAxeV1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/PickAxeV1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/ScytheV1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/ScytheV1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/SpadeV1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Models/SpadeV1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/AxeV1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/AxeV1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/HammerV1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/HammerV1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/HoeV1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/HoeV1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/PickAxeV1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/PickAxeV1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/ScytheV1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/ScytheV1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/SpadeV1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Prefabs/SpadeV1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Scene.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Scene/Showcase.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Scene/Showcase.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Texture.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Texture/PolyPack_Main1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Tool Set - PolyPack/Texture/PolyPack_Main1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_001.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_001.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_002.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_002.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_003.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_003.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_004.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_004.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_005.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_005.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_006.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_006.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_007.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_007.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_008.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_008.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_009.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_009.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_010.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_010.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_011.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_011.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_012.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_012.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_013.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_013.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_014.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_014.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_015.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_015.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_016.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_016.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_017.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_017.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_018.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_018.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_019.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_019.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_020.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_020.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_021.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_021.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_022.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_022.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_023.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_023.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_024.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_024.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_025.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_025.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_026.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_026.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_027.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_027.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_028.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_028.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_029.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_029.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_030.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_030.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_031.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_031.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_032.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_032.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_033.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_033.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_034.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_034.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_035.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_035.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_036.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_036.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_037.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_037.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_038.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_038.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_039.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_039.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_040.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_040.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_041.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_041.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_042.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_042.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_043.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_043.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_044.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_044.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_045.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_045.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_046.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_046.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_047.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_047.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_048.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_048.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_049.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_049.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_050.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_050.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_051.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_051.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_052.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_052.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_053.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_053.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_054.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_054.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_055.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_055.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_056.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_056.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_057.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_057.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_058.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_058.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_059.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_059.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_060.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_060.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_061.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_061.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_062.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_062.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_063.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_063.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_064.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_064.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_065.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_065.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_066.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_066.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_067.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_067.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_068.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_068.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_069.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_069.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_070.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_070.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_071.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_071.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_072.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_072.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_073.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_073.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_074.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_074.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_075.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_075.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_076.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_076.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_077.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_077.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_078.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_078.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_079.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_079.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_080.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_080.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_081.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_081.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_082.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_082.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_083.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_083.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_084.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_084.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_085.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_085.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_086.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_086.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_087.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_087.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_088.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_088.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_089.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_089.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_090.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_090.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_091.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_091.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_092.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_092.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_093.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_093.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_094.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_094.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_095.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_095.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_096.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_096.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_097.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_097.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_098.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_098.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_099.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_099.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_100.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_100.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_101.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_101.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_102.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_102.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_103.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_103.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_104.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_104.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_105.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_105.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_106.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_106.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_107.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_107.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_108.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_108.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_109.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_109.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_110.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GutsAndGoreHorrorSFXPackVol1/GutsAndGore_110.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Cold Touch.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Cold Touch.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Intense chase (loopable).wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Intense chase (loopable).wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Intense chase (not loopable).wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Intense chase (not loopable).wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Jump Scare.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Jump Scare.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Spooky Piano.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Spooky Piano.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/The Wet Room (Loopable).wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/The Wet Room (Loopable).wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/The Wet Room (Not Loopable).wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/The Wet Room (Not Loopable).wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Waiting .wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Horror Music/Waiting .wav.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ThirdPerson.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ThirdPerson.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/CameraPlayerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/CameraPlayerMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.inputactions" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -301,24 +22,71 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1712">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+            <state relative-caret-position="760">
+              <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
               <folding>
-                <marker date="1659271872380" expanded="true" signature="6:75" ph="..." />
-                <marker date="1659271872380" expanded="true" signature="120:3307" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="770:1310" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="1337:1476" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="1365:1409" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="1422:1470" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="1505:1947" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="1552:1941" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="2006:2401" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="2266:2395" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="2457:2532" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="2569:2672" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="2735:2826" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="2865:3092" ph="{...}" />
-                <marker date="1659271872380" expanded="true" signature="3125:3305" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="6:89" ph="..." />
+                <marker date="1659282966781" expanded="true" signature="137:3340" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="610:1247" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="1274:1535" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="1306:1529" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="1386:1442" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="1459:1519" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="1564:1896" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="1611:1890" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="1955:2279" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="2335:2410" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="2447:2577" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="2640:2731" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="2770:3112" ph="{...}" />
+                <marker date="1659282966781" expanded="true" signature="3145:3338" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/ChageColors.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+              <folding>
+                <marker date="1659283382456" expanded="false" signature="6:92" ph="..." />
+                <marker date="1659283382456" expanded="true" signature="137:1087" ph="{...}" />
+                <marker date="1659283382456" expanded="true" signature="294:393" ph="{...}" />
+                <marker date="1659283382456" expanded="true" signature="442:614" ph="{...}" />
+                <marker date="1659283382456" expanded="true" signature="512:608" ph="{...}" />
+                <marker date="1659283382456" expanded="true" signature="642:732" ph="{...}" />
+                <marker date="1659283382456" expanded="true" signature="693:726" ph="{...}" />
+                <marker date="1659283382456" expanded="true" signature="768:930" ph="{...}" />
+                <marker date="1659283382456" expanded="true" signature="973:1085" ph="{...}" />
+                <marker date="1659283382456" expanded="true" signature="1023:1079" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/ChangeColorCharacterSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+              <folding>
+                <marker date="1659275564901" expanded="false" signature="6:78" ph="..." />
+                <marker date="1659275564901" expanded="true" signature="228:437" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/MovementCharactersSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <marker date="1659274941061" expanded="false" signature="6:78" ph="..." />
+                <marker date="1659274941061" expanded="true" signature="236:553" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -524,29 +292,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.inputactions">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1763" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4097">
-              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-              <folding>
-                <marker date="1659270118368" expanded="true" signature="0:490" ph="/* ------------------------------------------------------------------------------ ... */" />
-                <marker date="1659270118368" expanded="false" signature="498:637" ph="..." />
-                <marker date="1659270118368" expanded="true" signature="714:12777" ph="{...}" />
-                <marker date="1659270118368" expanded="true" signature="788:2161" ph="{...}" />
-                <marker date="1659270118368" expanded="true" signature="12731:12775" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -554,19 +299,25 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/MovementCharactersSettings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ChageColors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/ChangeColorCharacterSettings.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputSettings.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/MovementCharactersSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/ChangeColorCharacterSettings.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/ChageColors.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="1597" />
     <option name="height" value="1047" />
@@ -604,6 +355,12 @@
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
               <item name="Player" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="ScriptableObjects" type="1045f7f1:UnityExplorerNode" />
             </path>
           </expand>
           <select />
@@ -657,12 +414,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659119226128</updated>
-      <workItem from="1659119229524" duration="19354000" />
+      <workItem from="1659119229524" duration="26468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19354000" />
+    <option name="totallyTimeSpent" value="26468000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -674,7 +431,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1597" height="1047" extended-state="1" />
+    <frame x="-7" y="0" width="1597" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -735,25 +492,6 @@
         <state relative-caret-position="204">
           <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4097">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <marker date="1659270118368" expanded="true" signature="0:490" ph="/* ------------------------------------------------------------------------------ ... */" />
-            <marker date="1659270118368" expanded="false" signature="498:637" ph="..." />
-            <marker date="1659270118368" expanded="true" signature="714:12777" ph="{...}" />
-            <marker date="1659270118368" expanded="true" signature="788:2161" ph="{...}" />
-            <marker date="1659270118368" expanded="true" signature="12731:12775" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.inputactions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1763" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkManager.cs">
@@ -954,26 +692,107 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <marker date="1659273603440" expanded="true" signature="0:490" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1659273603440" expanded="false" signature="498:637" ph="..." />
+            <marker date="1659273603440" expanded="true" signature="714:12776" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="788:7675" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="7702:7757" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="7795:7883" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="7931:8011" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="8143:8194" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="8247:8297" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="8342:8386" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="8412:8448" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="8475:8512" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="8665:8743" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="8820:8891" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="9237:11859" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="9976:11853" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="10054:11102" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="11203:11843" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="11997:12192" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="12015:12186" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="12279:12494" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="12297:12488" ph="{...}" />
+            <marker date="1659273603440" expanded="true" signature="12530:12774" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputSettings/PlayerInputMap.inputactions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1763" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/NewBehaviourScript.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/MovementCharactersSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1659274941061" expanded="false" signature="6:78" ph="..." />
+            <marker date="1659274941061" expanded="true" signature="236:553" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/ChangeColorCharacterSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <marker date="1659275564901" expanded="false" signature="6:78" ph="..." />
+            <marker date="1659275564901" expanded="true" signature="228:437" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/ChageColors.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <marker date="1659283382456" expanded="false" signature="6:92" ph="..." />
+            <marker date="1659283382456" expanded="true" signature="137:1087" ph="{...}" />
+            <marker date="1659283382456" expanded="true" signature="294:393" ph="{...}" />
+            <marker date="1659283382456" expanded="true" signature="442:614" ph="{...}" />
+            <marker date="1659283382456" expanded="true" signature="512:608" ph="{...}" />
+            <marker date="1659283382456" expanded="true" signature="642:732" ph="{...}" />
+            <marker date="1659283382456" expanded="true" signature="693:726" ph="{...}" />
+            <marker date="1659283382456" expanded="true" signature="768:930" ph="{...}" />
+            <marker date="1659283382456" expanded="true" signature="973:1085" ph="{...}" />
+            <marker date="1659283382456" expanded="true" signature="1023:1079" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1712">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        <state relative-caret-position="760">
+          <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
           <folding>
-            <marker date="1659271872380" expanded="true" signature="6:75" ph="..." />
-            <marker date="1659271872380" expanded="true" signature="120:3307" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="770:1310" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="1337:1476" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="1365:1409" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="1422:1470" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="1505:1947" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="1552:1941" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="2006:2401" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="2266:2395" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="2457:2532" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="2569:2672" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="2735:2826" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="2865:3092" ph="{...}" />
-            <marker date="1659271872380" expanded="true" signature="3125:3305" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="6:89" ph="..." />
+            <marker date="1659282966781" expanded="true" signature="137:3340" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="610:1247" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="1274:1535" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="1306:1529" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="1386:1442" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="1459:1519" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="1564:1896" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="1611:1890" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="1955:2279" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="2335:2410" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="2447:2577" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="2640:2731" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="2770:3112" ph="{...}" />
+            <marker date="1659282966781" expanded="true" signature="3145:3338" ph="{...}" />
           </folding>
         </state>
       </provider>

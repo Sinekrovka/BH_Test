@@ -490,7 +490,12 @@
             <e p="PlayerInputMap.cs" t="Include" />
           </e>
           <e p="Player" t="Include">
+            <e p="ChageColors.cs" t="Include" />
             <e p="PlayerMovement.cs" t="Include" />
+          </e>
+          <e p="ScriptableObjects" t="Include">
+            <e p="ChangeColorCharacterSettings.cs" t="Include" />
+            <e p="MovementCharactersSettings.cs" t="Include" />
           </e>
         </e>
         <e p="ScriptTemplates" t="Include">

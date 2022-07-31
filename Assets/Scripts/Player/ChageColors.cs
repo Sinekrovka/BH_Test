@@ -1,43 +1,56 @@
 using System.Collections;
 using System.Collections.Generic;
 using Mirror;
+using TMPro;
 using UnityEngine;
 
-public class ChageColors : NetworkBehaviour
+public class ChageColors : MonoBehaviour
 {
     private int _points;
     private Material[] materials;
     [SerializeField] private ChangeColorCharacterSettings _dataColor;
+    [SerializeField] private TextMeshPro _text;
 
     private void Awake()
     {
         _points = 0;
-        materials = GetComponentInChildren<Renderer>().materials;
+        materials = transform.GetComponentInChildren<Renderer>().materials;
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.TryGetComponent(out ChageColors otherColors))
+        if (other.transform != transform.parent)
         {
-            StartCoroutine(WaitTime());
-            otherColors.AddPoint();
+            if (other.transform.Find("Character").TryGetComponent(out ChageColors otherColors))
+            {
+                otherColors.ChangeColorThisObject();
+                AddPoint();   
+            }
         }
     }
 
-    public void AddPoint()
+    private void AddPoint()
     {
         _points++;
+        _text.text = _points + "/3";
         if (_points >= 3)
         {
-            
+            WinController.Instance.WinGame(transform.parent.name);
         }
+    }
+
+    public void ChangeColorThisObject()
+    {
+        StartCoroutine(WaitTime());
     }
 
     private IEnumerator WaitTime()
     {
+        transform.parent.gameObject.layer = 7;
         ChangeColor(_dataColor.ChangedColor);
         yield return new WaitForSeconds(_dataColor.TimeChangedColor);
         ChangeColor(Color.white);
+        transform.parent.gameObject.layer = 6;
     }
 
     private void ChangeColor(Color color)

@@ -10,6 +10,7 @@ public class PlayerMovement : NetworkBehaviour
     [Space]
     [Header("Camera Settings")]
     [SerializeField] private Transform _cameraJoint;
+   
     private PlayerInputMap _inputSettings;
     private CharacterController _characterController;
     private Transform _character;
@@ -22,9 +23,9 @@ public class PlayerMovement : NetworkBehaviour
         _inputSettings = new PlayerInputMap();
         _inputSettings.Player.Enable();
         _canMove = true;
+        _collider = GetComponentInChildren<CapsuleCollider>();
+        _collider.enabled = !_canMove;
         _character = transform.Find("Character");
-        _collider = _character.GetComponent<Collider>();
-        _collider.isTrigger = _canMove;
         _characterController = GetComponentInChildren<CharacterController>();
         _inputSettings.Player.Move.canceled += ctx => _move = ctx.ReadValue<Vector2>();
         _inputSettings.Player.Move.performed += ctx => _move = ctx.ReadValue<Vector2>();
@@ -36,7 +37,7 @@ public class PlayerMovement : NetworkBehaviour
     {
         if (hasAuthority)
         {
-            _collider.isTrigger = _canMove;
+            _collider.enabled = !_canMove;
             if (_canMove)
             {
                 Movement();

@@ -1,14 +1,15 @@
+using System;
 using System.Collections;
-using System.Collections.Generic;
 using Mirror;
 using TMPro;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class WinController : MonoBehaviour
 {
     [SerializeField] private GameObject _winCanvas;
     [SerializeField] private TextMeshProUGUI _winText;
+
+    public Action reloadRoom;
     
     public static WinController Instance;
 
@@ -16,15 +17,18 @@ public class WinController : MonoBehaviour
     {
         Instance = this;
     }
-
+    
     public void WinGame(string name)
     {
         _winCanvas.SetActive(true);
         _winText.text = "Winned player: " + name;
+        StartCoroutine(RestartGame());
     }
-
-    public void RestartGame()
+    private IEnumerator RestartGame()
     {
+        yield return new WaitForSeconds(5);
+        reloadRoom?.Invoke();
+        NetworkManager.singleton.ServerChangeScene("LoadScene");
         
     }
 }

@@ -15,6 +15,7 @@ public class ChageColors : MonoBehaviour
     {
         _points = 0;
         materials = transform.GetComponentInChildren<Renderer>().materials;
+        WinController.Instance.reloadRoom += NullPoints;
     }
 
     private void OnTriggerEnter(Collider other)
@@ -59,5 +60,11 @@ public class ChageColors : MonoBehaviour
         {
             material.color = color;
         }
+    }
+
+    private void NullPoints()
+    {
+        _points = 0;
+        _text.text = _points + "/3";
     }
 }
